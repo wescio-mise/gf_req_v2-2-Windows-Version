@@ -1,0 +1,32 @@
+[
+  {
+    "name": "OTZ",
+    "value": "8659530_48_52_123900_48_436380",
+    "domain": "consent.google.com",
+    "path": "/",
+    "expires": 1784467775,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "SOCS",
+    "value": "CAESNQgjEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjYwNjE2LjA4X3AwGgJpdCACGgYIgI3S0QY",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1816003776.834722,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Secure-ENID",
+    "value": "34.SE=GGqKaD-MgGckD_iGTMaAhFCKumIDEoDIdjUD3ND4P1wKaKDiDlNB3D1o47UZcdsxf_YwLctp1sNMmMPzDaYT1huc4GYLaOs0KQ1C73UDlar15Kv9RybAbGPpYHZ8PCvNThBOP9a1QVV6ffkbs8HTjC1byVUV_R6MeHyRhOYcCZQisdP6fn8xPeV5bVmZl5SBnxhgPz4V3agrCCRQBqgmE6AjlF-cUWmc7ZTlRmCyAUW71Hxmd4hBQG6NObs",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1816062472.38027,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]
